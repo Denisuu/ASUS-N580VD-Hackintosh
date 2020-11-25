@@ -18,4 +18,5 @@
 * RealTek USB2.0-CRW
 * dGPU: Nvidia Geforce GTX1050  (Nvidia Optimus not supported on MacOS)
 * Stock Wifi card needs to be replaced
+* HDMI cable for an external display needs to removed on initial boot or internal laptop screen will be black. Removing FakePCIID_Intel_HDMI_Audio.kext solves this but breaks audio over HDMI.
 
