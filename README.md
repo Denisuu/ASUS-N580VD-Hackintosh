@@ -15,11 +15,12 @@ Replaced with Dell DW1820A CN-0VW3T3 BCM94350ZAE
 * Audio: Conexant Audio CX8150
 * Built-in Display: B156HAN06.1 (1080p non touch)
 * Touchpad: ELAN1200
+* Cardreader: RealTek USB2.0-CRW (Product ID: 0x0129, Vendor ID: 0x0bda)
 
 # Not Working:
-* RealTek USB2.0-CRW
-* dGPU: Nvidia Geforce GTX1050  (Nvidia Optimus not supported on MacOS)
-* Stock Wifi card needs to be replaced
+* RealTek USB2.0-CRW. (Haven't done much research)
+* dGPU: Nvidia Geforce GTX1050.  (Nvidia Optimus not supported on MacOS 10.13+)
+* Stock WIFI card needs to be replaced.
 * HDMI cables (HDMI & USB-C HDMI) for external displays needs to removed before boot or the internal laptop screen will be black.  
 If you remove FakePCIID_Intel_HDMI_Audio.kext, you can leave external displayed plugged in but you won't have Audio over HDMI.
 
