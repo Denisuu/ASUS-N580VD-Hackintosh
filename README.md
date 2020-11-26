@@ -10,7 +10,8 @@ Replaced with 32GB (2 x Hynix HMA82GS6JJR8N-VK 16GB DDR4 SODIMM 2666MHZ)
 * SSD: 256GB Micron 1100 M.2 (MTFDDAV256TBM)
 * SSHD: 2TB FireCuda (ST2000LX001)
 * Ethernet: Realtek RTL8168
-* WIFI: ~~Intel 8265NGW M.2 (Stock)~~ Replaced with Dell DW1820A CN-0VW3T3 BCM94350ZAE
+* WIFI: ~~Intel 8265NGW M.2 (Stock)~~  
+Replaced with Dell DW1820A CN-0VW3T3 BCM94350ZAE
 * Audio: Conexant Audio CX8150
 * Built-in Display: B156HAN06.1 (1080p non touch)
 * Touchpad: ELAN1200
@@ -19,5 +20,6 @@ Replaced with 32GB (2 x Hynix HMA82GS6JJR8N-VK 16GB DDR4 SODIMM 2666MHZ)
 * RealTek USB2.0-CRW
 * dGPU: Nvidia Geforce GTX1050  (Nvidia Optimus not supported on MacOS)
 * Stock Wifi card needs to be replaced
-* HDMI cable for external display needs to removed on boot or internal laptop screen will be black. Removing FakePCIID_Intel_HDMI_Audio.kext solves this but breaks audio over HDMI.
+* HDMI cables (HDMI & USB-C HDMI) for external displays needs to removed before boot or the internal laptop screen will be black. 
+If you remove FakePCIID_Intel_HDMI_Audio.kext, you can leave external displayed plugged in but you won't have Audio over HDMI.
 
