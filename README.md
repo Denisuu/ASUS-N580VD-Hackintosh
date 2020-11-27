@@ -1,6 +1,6 @@
 # ASUS VivoBook Pro 15 N580VD (4428T) - Hackintosh 
 
-![image](https://user-images.githubusercontent.com/24224165/100439682-2052d000-30a4-11eb-931e-7cbb5d286f37.png)
+![image](https://user-images.githubusercontent.com/24224165/100439942-7162c400-30a4-11eb-883e-89e18420ce2b.png)
 
 * Model: ASUS VivoBook 15 N580VD
 * Motherboard: X580VD
