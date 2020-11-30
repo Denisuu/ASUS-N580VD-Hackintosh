@@ -1,8 +1,8 @@
-# ASUS VivoBook Pro 15 N580VD (4428T) - Hackintosh 
+# ASUS VivoBook Pro 15 N580VD - Hackintosh 
 
 ![image](https://user-images.githubusercontent.com/24224165/100439942-7162c400-30a4-11eb-883e-89e18420ce2b.png)
 
-* Model: ASUS VivoBook 15 N580VD
+* Model: ASUS VivoBook 15 N580VD 4428T
 * Motherboard: X580VD
 * CPU: i7-7700HQ (Kaby Lake FCBGA-1440)
 * eGPU: Intel HD630
